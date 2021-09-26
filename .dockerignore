@@ -1,0 +1,5 @@
+.dockerignore
+Dockerfile
+app
+.git
+.gitignore
